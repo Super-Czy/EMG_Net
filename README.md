@@ -4,7 +4,7 @@
 [![PyTorch 1.11+](https://img.shields.io/badge/pytorch-1.11+-orange.svg)](https://pytorch.org/)
 [![License-MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
-**EMG-Net** is a state-of-the-art deep learning framework implemented in PyTorch for Magnetic Resonance Imaging Compressed Sensing (MRI-CS) reconstruction. By tightly binding the physical data consistency of the MRI sampling process and embedding the powerful feature representation capabilities of **ConvNeXt V2** blocks, EMG-Net successfully reconstructs high-fidelity, artifact-free MR images directly from under-sampled K-space/image domains.
+**EMG-Net** is a state-of-the-art deep learning framework implemented in PyTorch for Magnetic Resonance Imaging Compressed Sensing (MRI-CS) reconstruction. By tightly binding the physical data consistency of the MRI sampling process, EMG-Net successfully reconstructs high-fidelity, artifact-free MR images directly from under-sampled K-space/image domains.
 
 ---
 
